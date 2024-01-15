@@ -1,7 +1,7 @@
 # Installer Mongodb
 This Project Is For Very Easy And Automatic Installation MongoDB And MongoDB Compass Just With One Command For Linux
 
-# Support On
+# Supported On
 ```
 Kali Linux
 Ubuntu
